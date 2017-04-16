@@ -78,13 +78,29 @@ for ip, swobj in all_sw_objs.iteritems():
     print "Switch sw version is " + swobj.get_sw_version()
     print "Switch hw type is " + swobj.get_sw_hardware_type()
 
+
+
     # You can even send cmd at different level, config_mode, exec_mode or under_module
     # Output is a list with all the lines of the cmd o/p
-    output = swobj.send_cmd_config_mode('show switchname')
-    print "sh switchname cmd o/p is : "
-    print output
+    #output = swobj.send_cmd_config_mode('show switchname')
+    #print "sh switchname cmd o/p is : "
+    #print output
 
 logger.info("End of script...")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
