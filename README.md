@@ -1,5 +1,5 @@
 # fabriclib
-'fabriclib' is a package written as a generic library to access and automate Cisco MDS switches
+'fabriclib' is a generic library written in python to access and automate Cisco MDS switches
 
 Some of the salient features of this library are:
   - Access switches via telnet or ssh
