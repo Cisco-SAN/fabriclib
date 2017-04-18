@@ -9,6 +9,6 @@ Some of the salient features of this library are:
   - Easy access to cli show command outputs by writing parsers (can be extended to NXAPI outputs as well)
   - Integrated python logging facilty for easy debugging
 
-For more info on how to use this 'fabriclib' package library head over to the examples directory, **[fabriclib_examples] 
-For further queries on how to use the library or any bugs or enhancements, pls contact **Suhas Bharadwaj(subharad@cisco.com)**
+For more info on how to use this 'fabriclib' package library head over to the examples directory, 'fabriclib_examples'.  
+For further queries on how to use the library or any bugs or enhancements, pls contact **Suhas Bharadwaj (subharad@cisco.com)**
 
